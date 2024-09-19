@@ -1,0 +1,42 @@
+.bg_1 {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  background-color: rgb(183, 183, 183);
+}
+
+img {
+height: 40px;
+}
+
+p {
+    height: 50px;
+}
+
+input {
+    width: 220px;
+    height: 30px;
+}
+
+button {
+  height: 30px;
+}
+
+.main-1 {
+color: rgb(52, 149, 187);
+}
+
+.flex {
+    display: flex; /*横並び*/
+  }
+  .flex .image {
+    width: 50px; /*画像サイズ指定*/
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+  }
+  .flex .text {
+    margin: 0 0 0 20px;
+    padding: 0;
+  }
+  
